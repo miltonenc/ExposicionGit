@@ -1,7 +1,7 @@
 package iso600.unapec.com.exposiciongit;
 
 /**
- * Created by Oswald on 6/27/16.
+ * Created by MiltonEnc on 6/27/16.
  */
 public class Estudent {
     private String name;
